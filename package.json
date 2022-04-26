@@ -1,0 +1,24 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Aula de ReactJS da DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorFarfam/ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorFarfam/ReactJS/issues"
+  },
+  "homepage": "https://github.com/VictorFarfam/ReactJS#readme",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.1"
+  }
+}
